@@ -20,4 +20,5 @@ Voice input uses the browser Web Speech API. Chrome/Android is recommended. Spee
 
 ## Important
 The bundled PDFs are the notes supplied for the project and are served as static learning material. The AI endpoint does not automatically read PDF contents yet; the next RAG phase can index them into a vector database.
+EduSmart — AI-powered learning platform for Class 12 students.
 "# edusmart" 
